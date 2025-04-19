@@ -1,3 +1,8 @@
+# 🧩 Sudoku Solver
+
+A **React** app that lets you input a custom 9×9 Sudoku board, validates your moves in real‑time, and uses a backtracking algorithm to compute up to **3 unique solutions**. Navigate between solutions with **Previous** and **Next** buttons, and see a clear distinction between your inputs (black text) and solver fills (blue text).
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
